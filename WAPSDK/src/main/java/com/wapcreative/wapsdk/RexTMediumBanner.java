@@ -10,8 +10,8 @@ import com.google.android.gms.ads.AdRequest;
 import com.google.android.gms.ads.AdSize;
 import com.google.android.gms.ads.AdView;
 import com.google.android.gms.ads.LoadAdError;
-import com.wapcreative.rextsdk.interfaces.banner.OnLoadBannerAdmob;
-import com.wapcreative.rextsdk.interfaces.banner.OnLoadBannerFacebook;
+import com.wapcreative.wapsdk.interfaces.banner.OnLoadBannerAdmob;
+import com.wapcreative.wapsdk.interfaces.banner.OnLoadBannerFacebook;
 
 public class RexTMediumBanner {
     public static AdView adViewAdmob;

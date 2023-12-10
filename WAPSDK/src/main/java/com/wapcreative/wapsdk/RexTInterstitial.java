@@ -15,11 +15,11 @@ import com.google.android.gms.ads.FullScreenContentCallback;
 import com.google.android.gms.ads.LoadAdError;
 import com.google.android.gms.ads.interstitial.InterstitialAd;
 import com.google.android.gms.ads.interstitial.InterstitialAdLoadCallback;
-import com.wapcreative.rextsdk.interfaces.interstitial.admob.OnFullScreenContentCallbackAdmob;
-import com.wapcreative.rextsdk.interfaces.interstitial.load.OnLoadInterstitialAdmob;
-import com.wapcreative.rextsdk.interfaces.interstitial.load.OnLoadInterstitialFacebook;
-import com.wapcreative.rextsdk.interfaces.interstitial.show.OnShowInterstitialAdmob;
-import com.wapcreative.rextsdk.interfaces.interstitial.show.OnShowInterstitialFacebook;
+import com.wapcreative.wapsdk.interfaces.interstitial.admob.OnFullScreenContentCallbackAdmob;
+import com.wapcreative.wapsdk.interfaces.interstitial.load.OnLoadInterstitialAdmob;
+import com.wapcreative.wapsdk.interfaces.interstitial.load.OnLoadInterstitialFacebook;
+import com.wapcreative.wapsdk.interfaces.interstitial.show.OnShowInterstitialAdmob;
+import com.wapcreative.wapsdk.interfaces.interstitial.show.OnShowInterstitialFacebook;
 
 public class RexTInterstitial {
 

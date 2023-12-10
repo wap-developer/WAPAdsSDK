@@ -15,8 +15,8 @@ import com.google.android.gms.ads.OnUserEarnedRewardListener;
 import com.google.android.gms.ads.rewarded.RewardItem;
 import com.google.android.gms.ads.rewarded.RewardedAd;
 import com.google.android.gms.ads.rewarded.RewardedAdLoadCallback;
-import com.wapcreative.rextsdk.interfaces.reward.load.OnLoadRewardsAdmob;
-import com.wapcreative.rextsdk.interfaces.reward.show.OnShowRewardsAdmob;
+import com.wapcreative.wapsdk.interfaces.reward.load.OnLoadRewardsAdmob;
+import com.wapcreative.wapsdk.interfaces.reward.show.OnShowRewardsAdmob;
 
 public class RexTReward {
 

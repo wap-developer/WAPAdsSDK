@@ -11,7 +11,7 @@ import com.google.android.gms.ads.RequestConfiguration;
 import com.google.android.gms.ads.initialization.AdapterStatus;
 import com.google.android.gms.ads.initialization.InitializationStatus;
 import com.google.android.gms.ads.initialization.OnInitializationCompleteListener;
-import com.wapcreative.rextsdk.config.AudienceNetworkInitializeHelper;
+import com.wapcreative.wapsdk.config.AudienceNetworkInitializeHelper;
 
 import java.util.Map;
 

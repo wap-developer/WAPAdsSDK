@@ -27,10 +27,10 @@ import com.google.android.gms.ads.nativead.MediaView;
 import com.google.android.gms.ads.nativead.NativeAd;
 import com.google.android.gms.ads.nativead.NativeAdOptions;
 import com.google.android.gms.ads.nativead.NativeAdView;
-import com.wapcreative.rextsdk.interfaces.natives.OnLoadMediumNativesAdmob;
-import com.wapcreative.rextsdk.interfaces.natives.OnLoadMediumNativesFacebook;
-import com.wapcreative.rextsdk.interfaces.natives.OnLoadSmallNativesAdmob;
-import com.wapcreative.rextsdk.interfaces.natives.OnLoadSmallNativesFacebook;
+import com.wapcreative.wapsdk.interfaces.natives.OnLoadMediumNativesAdmob;
+import com.wapcreative.wapsdk.interfaces.natives.OnLoadMediumNativesFacebook;
+import com.wapcreative.wapsdk.interfaces.natives.OnLoadSmallNativesAdmob;
+import com.wapcreative.wapsdk.interfaces.natives.OnLoadSmallNativesFacebook;
 
 import java.util.ArrayList;
 import java.util.List;
