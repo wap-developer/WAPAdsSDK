@@ -140,7 +140,7 @@ public class RexTNative {
                         .build());
     }
 
-    public static void MediumNativeAdmob(Activity activity, RelativeLayout layNative, String selectAdsBackup, String nativeId, String idNativeBackup, String Hpk1,
+    public static void MediumNativeAdmob(Activity activity, RelativeLayout layNative, String nativeId, String Hpk1,
                                          String Hpk2, String Hpk3, String Hpk4, String Hpk5) {
 
         AdLoader.Builder builder = new AdLoader.Builder(activity, nativeId);
@@ -237,7 +237,7 @@ public class RexTNative {
 
     }
 
-    public static void SmallNativeAdmobRectangle(Activity activity, RelativeLayout layNative, String selectAdsBackup, String nativeId, String idNativeBackup, String Hpk1,
+    public static void SmallNativeAdmobRectangle(Activity activity, RelativeLayout layNative, String nativeId, String Hpk1,
                                                  String Hpk2, String Hpk3, String Hpk4, String Hpk5) {
 
         AdLoader.Builder builder = new AdLoader.Builder(activity, nativeId);
